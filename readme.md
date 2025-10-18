@@ -1,8 +1,20 @@
-Name: Ajibola Yussuf
-Slack Username : Yussuf 
-Description: Deployed a static web server using NGINX on an Ubuntu EC2 instance.  
-Customized the index.html file with personal and deployment details.  
-Content is served over HTTP and accessible via the instance’s public IP.
+# HNG13 - DevOps Stage 0 Task
 
-ip: 44.222.226.161
+**Name:** Ajibola Yussuf  
+**Slack Username:** Yussuf  
+
+---
+
+## Project Description
+This project is part of the HNG13 Stage 0 DevOps Task.  
+I deployed a static website using NGINX on an Ubuntu EC2 instance hosted on AWS.  
+
+---
+
+## Deployment Information
+- **Server IP:** [http://3.88.12.10/] 
+- **Platform:** AWS EC2  
+- **Web Server:** NGINX  
+- **Protocol:** HTTP (Port 80)
+
 
