@@ -5,3 +5,4 @@ Customized the index.html file with personal and deployment details.
 Content is served over HTTP and accessible via the instance’s public IP.
 
 ip: 44.222.226.161
+
